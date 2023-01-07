@@ -11,7 +11,7 @@
     "url": "git+https://github.com/AuroraVeilLion/KAT-X.git"
   },
   "keywords": [
-    "KAT-X"
+    "kat_x"
   ],
   "author": "Maxim Vlayev",
   "license": "ISC",
@@ -22,12 +22,11 @@
   "devDependencies": {
     "browser-sync": "^2.27.11",
     "gulp": "^4.0.2",
-    "gulp-sass": "^5.1.0",
-    "sass": "^1.57.1"
-  },
-  "dependencies": {
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
-    "gulp-rename": "^2.0.0"
+    "gulp-cli": "^2.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.57.1"
   }
 }
